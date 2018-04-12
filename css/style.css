@@ -1,3 +1,15 @@
+.info {
+  background: #c9c1ac;
+}
+
+
+
+
 body {
   font-family: 'IM Fell Double Pica', serif;
+}
+
+
+.primary-color {
+  color: #d3325f;
 }
